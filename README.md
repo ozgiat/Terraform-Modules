@@ -19,9 +19,7 @@ brew install terraform
 
 ### Executing
 
-Pick the desired module and:
-
-Change dir:
+Pick the desired module and change dir:
 
 ```
 terraform-ec2-module 
