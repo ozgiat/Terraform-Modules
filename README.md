@@ -1,6 +1,6 @@
 # Terraform Modules for AWS resources and more
 
-Terraform modules for AWS to create the following resource: 
+Terraform modules for AWS to create the following resources: 
 - VPC
 - ALB
 - NLB
