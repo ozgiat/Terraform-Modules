@@ -22,7 +22,7 @@ brew install terraform
 Pick the desired module:
 
 ```
-terraform-ec2-module 
+cd terraform-ec2-module 
 ```
 
 Initialize terraform: 
